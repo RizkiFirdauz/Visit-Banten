@@ -1,0 +1,18 @@
+.container2 {
+    color           : white;
+    font-size       : 24px;
+    background      : rgba(0, 0, 0, 0.308);
+    height          : 582px;
+    font-family     : "Kaushan Script";
+}
+
+.Contact {
+    background      : url("http://pojoksatu.id/wp-content/uploads/2015/02/BP3B-BANTEN.jpg");
+    background-size : 100% 100%;
+    height          : 582px;
+    text-align      : center;
+}
+
+p8 {
+    font-size       : 60px;
+}

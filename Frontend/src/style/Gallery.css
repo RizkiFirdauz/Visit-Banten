@@ -1,0 +1,15 @@
+.Gallery {
+    background: lightcyan;
+}
+.container1 h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+.container1 {
+    background: lightcyan;
+}
+.container2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: lightcyan;
+}

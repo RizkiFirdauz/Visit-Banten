@@ -1,0 +1,56 @@
+  .container-fluid2 {
+    background      : white;
+  }
+
+  .container-fluid3 {
+    background      : url('https://jpswisata.com/wp-content/uploads/2016/10/pasir-putih-pulau-pari-kepulauan-seribu.jpg');
+    height          : 582px;
+    background-size : 100% 100%;
+  }
+  
+  .fluid4 {
+    height          : 315px;
+    padding-top     : 50px;
+  }
+  
+  .fluid5 {
+    height          : 215px;
+    padding-top     : 60px;
+  }
+
+  .container-fluid6 {
+    background      : white;
+    height          : 582px;
+    padding-top     : 50px; 
+  }
+
+  h2 {
+    padding-top     : 80px;
+    color           : white;
+    font-size       : 60px;
+    font-weight     : bold;
+    font-family     : "Kaushan Script";
+  }
+
+  h3 {
+    padding-top     : 80px;
+    /* padding-left    : 200px; */
+    color           : purple;
+    font-size       : 20px;
+    font-family     : "Gaegu";
+  }
+
+  p {
+    color           : purple;
+    font-weight     : bold;
+  }
+
+  .btn {
+    font-family     : "Courgette";
+    font-size       : 16px;
+  }
+
+  .sosmed {
+    padding-top     : 30px;
+    text-align      : right;
+  }

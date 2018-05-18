@@ -1,0 +1,19 @@
+h7 {
+    font-family : "Lobster";
+    font-size   : 36px;
+}
+
+h6 {
+    font-family : "Lobster";
+    font-size   : 24px;
+    color       : purple;
+}
+
+p1 {
+    font-family : "Courgette";
+    color       : grey;
+}
+
+.Hasil {
+    padding-top: 50px;
+}

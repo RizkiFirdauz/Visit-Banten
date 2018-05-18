@@ -1,0 +1,30 @@
+.Header {
+    font-family: "Sofia";
+}
+
+nav {
+    font-weight : bold;
+    font-size   : 22px;
+}
+
+.navbar-brand {
+    font-size   : 24px;
+    font-weight : bold;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navbar-default {
+    background  : white;
+}
+
+.scrollto {
+    font-family : "Berkshire Swash";
+    font-size   : 36px;
+    color       : grey;
+    text-decoration: none;
+}
+
+.avatar {
+    color       : grey;
+    font-size   : 16px;
+}

@@ -1,0 +1,22 @@
+p {
+    font-family     : "Gaegu";
+    color           : white;
+}
+
+h5 {
+    font-family     : "Kaushan Script";
+    font-size       : 36px;
+    color           : white;
+    padding-top     : 50px;
+    text-align      : center;
+}
+
+.history {
+    background      : url("https://ksmtour.com/media/images/articles12/keraton-kaibon-banten.jpg");
+    background-size : 100% 100%;
+    height          : 582px;
+}
+
+.sejarah {
+    background      : rgba(0, 0, 0, 0.151);
+}
